@@ -1,0 +1,17 @@
+{
+  "name": "personsbackend",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \\\"Error no tesst specified\\\" && exit 1"
+  },
+  "author": "Asd",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
